@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{83E3EBD8-3435-35B7-B53A-4E13A3884FDA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Fisherman/FisherMan.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Hook.cs" Line="118" Column="10" />
+      <File FileName="Assets/Scripts/Fish/Fish.cs" Line="85" Column="6" />
+      <File FileName="Assets/Scripts/Fish/FishSpawner.cs" Line="25" Column="17" />
+      <File FileName="Assets/Scripts/Fisherman/FisherMan.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Go Fish Master" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Fish" expanded="True" />
+                <Node name="Fisherman" expanded="True">
+                  <Node name="FisherMan.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e68de573-55e6-45c0-93a4-ba2136e5c65d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
